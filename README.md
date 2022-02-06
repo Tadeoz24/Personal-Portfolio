@@ -1,5 +1,5 @@
 <div align="center" id="top"> 
-  <img src="./.github/app.gif" alt="Portfolio" />
+  <img src="./src/assets/img/Avatar.png" alt="Portfolio" />
 
 &#xa0;
 
@@ -58,35 +58,39 @@ My first portfolio as Angular Developer
 
 The following tools were used in this project:
 
+- [Angular](https://angular.io/)
+- [HTML](https://html.com/)
+- [SCSS](https://sass-lang.com/)
+- [JavaScript](https://www.javascript.com/)
 - [TypeScript](https://www.typescriptlang.org/)
 
 ## :white_check_mark: Requirements
 
-Before starting :checkered_flag:, you need to have [Git]() and [Node]() installed.
+Before starting :checkered_flag:, you need to have [Git]() and [Node, Angular]() installed.
 
 ## :checkered_flag: Starting
 
 ```bash
 # Clone this project
-$ git clone https://github.com/{{YOUR_GITHUB_USERNAME}}/portfolio
+$ git clone https://github.com/Tadeoz24/Personal-Portfolio
 
 # Access
 $ cd portfolio
 
 # Install dependencies
-$ yarn
+$ npm install
 
 # Run the project
-$ yarn start
+$ ng serve
 
-# The server will initialize in the <http://localhost:3000>
+# The server will initialize in the <http://localhost:4200>
 ```
 
 ## :memo: License
 
 This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
 
-Made with :heart: by <a href="https://github.com/{{YOUR_GITHUB_USERNAME}}" target="_blank">{{YOUR_NAME}}</a>
+Made with :heart: by <a href="https://github.com/Tadeoz24/" target="_blank">{{Tadeoz}}</a>
 
 &#xa0;
 
