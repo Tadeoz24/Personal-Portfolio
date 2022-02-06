@@ -1,0 +1,45 @@
+.p-profile {
+  background-position: top;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background: url(../../assets/img/rsz_169665327_5493353987371678_6697678925687290265_n_1.jpg);
+  height: 495px;
+  width: 85%;
+}
+.p-tag {
+  background: #989898;
+  color: #fff;
+  font-size: 15px;
+  padding: 5px 10px;
+}
+.p-des {
+  color: #acacac;
+  width: 80%;
+}
+.p-rgt-sec {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+form .form-group {
+  box-shadow: 1px 2px 12px 1px #0003;
+  width: 48%;
+  height: 60px;
+}
+form .form-control {
+  min-height: 60px;
+  padding: 10px 20px;
+  border-radius: 0;
+  border: 0;
+  outline: none;
+  box-shadow: none;
+  background-color: #fff;
+  width: calc(100% - 141px);
+}
+form .btn-warning {
+  border-radius: 0;
+  border: 0;
+  font-weight: 500;
+  min-height: 60px;
+  padding: 10px 35px;
+}

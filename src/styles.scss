@@ -1,0 +1,78 @@
+/* You can add global styles to this file, and also import other style files */
+@import "~bootstrap/dist/css/bootstrap.css";
+
+body {
+  font-size: 17px;
+  margin: 0;
+  padding: 0;
+}
+
+p {
+  margin: 0;
+}
+
+a,
+a:hover {
+  text-decoration: none;
+  color: #000;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: 700;
+}
+h1 {
+  font-size: 45px;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+/*  COMMON  */
+.p-cursor {
+  cursor: pointer;
+}
+.p-flex {
+  display: flex;
+}
+
+.p-flex-align-center {
+  align-items: center;
+}
+
+.p-flex-jc-sb {
+  justify-content: space-between;
+}
+
+/*  WRAPPER CLASS  */
+
+.p-wrapper {
+  position: relative;
+}
+
+.p-wrapper::before {
+  background: #f9b205;
+  content: "";
+  height: 100vh;
+  position: absolute;
+  width: 25vw;
+  z-index: -1;
+}
+
+.p-readmore {
+  font-weight: 600;
+}
+.p-readmore img {
+  transition: all 0.5s;
+  transform: translateX(0);
+}
+
+.p-readmore:hover img {
+  transform: translateX(5px);
+}
