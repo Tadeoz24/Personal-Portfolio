@@ -50,9 +50,9 @@ My first portfolio as Angular Developer
 
 ## :sparkles: Features
 
-:heavy_check_mark: Feature 1;\
-:heavy_check_mark: Feature 2;\
-:heavy_check_mark: Feature 3;
+:heavy_check_mark: Angular 1;\
+:heavy_check_mark: HTML CSS/SCSS 2;\
+:heavy_check_mark: TypeScript/JavaScript 3;
 
 ## :rocket: Technologies
 
