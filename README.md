@@ -46,7 +46,7 @@
 
 ## :dart: About
 
-Describe your project
+My first portfolio as Angular Developer
 
 ## :sparkles: Features
 
