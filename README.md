@@ -39,7 +39,7 @@
   <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
   <a href="#memo-license">License</a> &#xa0; | &#xa0;
-  <a href="https://github.com/{{YOUR_GITHUB_USERNAME}}" target="_blank">Author</a>
+  <a href="https://github.com/{{https://github.com/Tadeoz24}}" target="_blank">Author</a>
 </p>
 
 <br>
@@ -50,7 +50,7 @@ My first portfolio as Angular Developer
 
 ## :sparkles: Features
 
-:heavy_check_mark: Angular 1;\
+:heavy_check_mark: Angular;\
 :heavy_check_mark: HTML CSS/SCSS 2;\
 :heavy_check_mark: TypeScript/JavaScript 3;
 
