@@ -30,7 +30,7 @@
 
 ## :dart: About
 
-My first portfolio as Angular Developer
+My first portfolio as Angular Developer which I have to build periodically
 
 ## :sparkles: Features
 
